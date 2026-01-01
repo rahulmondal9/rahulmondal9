@@ -134,7 +134,7 @@ Let’s transform data into clear, actionable intelligence.
   <a href="https://github.com/rahulmondal9">
     <img src="https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://rahulmondal9.github.io/Portfolio/">
+  <a href="https://rahulmondal9.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-45B7D1?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
